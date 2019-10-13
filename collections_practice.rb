@@ -29,3 +29,7 @@ def kesha_maker(array)
   end
   arr2
 end
+
+def sum_array(array)
+  
+end
